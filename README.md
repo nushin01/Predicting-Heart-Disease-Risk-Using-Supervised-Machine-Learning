@@ -97,14 +97,17 @@ This binary classification task is critical for medical screening and early diag
 git clone https://github.com/nushin01/heart-disease-risk-prediction.git
 cd heart-disease-risk-prediction
 
+
+
 Make sure you have Python ≥ 3.8 installed. Then run:
 
 pip install -r requirements.txt
 
+
+Run the Jupyter Notebook : Supervised Learning Final Project.ipynb
+
 ## Project Structure
-kotlin
-Copy
-Edit
+
 heart-disease-risk-prediction/
 │
 ├── data/
